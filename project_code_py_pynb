@@ -1,0 +1,6 @@
+My project was completed in JavaScript, in order to leverage the capabilities of the Google Earth Engine code editor and map interface.
+
+I have been working to convert the JS to Python for interopoerability and sharing.
+
+Please see below for a link to a work-in-progress Google Colab Notebook where I'm working to convert the code from JY to PY:
+https://colab.research.google.com/drive/1bmJKgqMpfzX0JjGvYWp2sRZe9VxiiPuz?usp=sharing
